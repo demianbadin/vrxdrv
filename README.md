@@ -1,6 +1,6 @@
-# Project Title
+# VrxDVR
 
-One Paragraph of project description goes here
+This device helps the organizers and pilots of drone races to have a quad receiver for their events. It simply allows you to adjust the 4 channels from an LCD display and generates the 4 composite video outputs that can be connected to a DVR or a USB video capturer.
 
 ## Getting Started
 
